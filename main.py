@@ -1,6 +1,7 @@
 # In your keyboard press windows + r
 # Now write cmd
 # If you have VS or an application for programming, copy the code, if not, download VS in visualstudio download
+# In the cmd write "pip install pyautogui" and wait
 # copy the code and go to the chat
 # click start in the top with the icon " > "
 
