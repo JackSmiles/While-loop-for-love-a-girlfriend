@@ -10,7 +10,7 @@ import time # Import a time for write
 count = 0 # The count is 0
 name = "Kharla" # Set a name for your girlfriend or your boyfriend or your friend
 
-time.sleep(10) # 10 seconds for write (count) - I love you so much (name)
+time.sleep(10) # Add 10 seconds for wait start the loop (You can change the numbre or delete this line)
 while True:
     count += 1 # Sum the count with the number 1
     pyautogui.write(f'{count} - I love you so much {name}') # IMPORTANT -- Write message
